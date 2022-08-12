@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+
 title = 'My New Hugo Site'
 theme = 'terminal'
-baseurl = "/"
+baseurl = "https://idkwhyb.github.io/firstblog/"
 languageCode = "en-us"
 paginate = 5
 
